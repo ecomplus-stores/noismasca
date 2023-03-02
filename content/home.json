@@ -8,25 +8,41 @@
       "full_width": false,
       "slides": [
         {
-          "img": "/img/uploads/rect89.webp",
-          "link": "/headset",
-          "alt": "Headset banner",
-          "start": "2020-04-11T05:54:06.750Z",
-          "end": "2020-12-31T03:00:00.000Z",
-          "mobile_img": "/img/uploads/headphone.webp"
+          "img": "/img/uploads/banner-stokers.jpg",
+          "link": "",
+          "alt": "",
+          "start": "",
+          "end": "",
+          "mobile_img": ""
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner2.webp",
-          "alt": "Banner sample two",
-          "mobile_img": "/img/uploads/passion.webp"
+          "img": "/img/uploads/banner-made-in-cuspi-texas-watermelon.jpg",
+          "alt": "",
+          "mobile_img": ""
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner-made-in-cuspi-texas-25mas.jpg"
         }
       ]
     },
     {
-      "type": "info-bar",
-      "enabled": true
+      "type": "responsive-banner",
+      "img": "/img/uploads/banner_frete_gratis_pix01.jpg"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/banner_home_p_rape.jpg"
+        },
+        {
+          "img": "/img/uploads/banner_home_p_palheiro.jpg"
+        }
+      ]
     },
     {
       "type": "collection-shelf",
@@ -37,11 +53,6 @@
       "headless": false,
       "limit": 12,
       "page": 1
-    },
-    {
-      "type": "page-title",
-      "title": "Loja demo da E-Com Plus",
-      "description": "Loja de demonstração e testes da plataforma E-Com Plus e Storefront. Todos os produtos, preços e informações são meramente ilustrativos."
     }
   ]
 }
