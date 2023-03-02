@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.fb9926bed011a8e503b9da1e190bfea4.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.3e0c8e201768bee345d7357ca94c1dee.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.b320076ce2629e9c2927dcd6a72c2913.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.888fa5acb7c5e63e509767da453f7748.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.a4fb4ed3a0443542cff6929d22622d1d.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Made in Cuspi",
+  "short_name": "Made in Cuspi",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Made in Cuspi",
+  "background_color": "#ffffff",
+  "theme_color": "#089c26"
+}
