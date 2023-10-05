@@ -18,11 +18,16 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/fumo-de-mascar-importado/?Fumo Importado ",
+      "/fumo-nacional/?Fumo Nacional",
+      "/fumo-por-tipo/?Fumo por Tipo",
+      "/categoria-exemplo/?Outros Produtos"
+    ],
     "random": 6,
-    "full_width": false
+    "full_width": true
   },
-  "desktop_megamenu": false,
+  "desktop_megamenu": true,
   "search_input": true,
   "alphabetical_order_submenu": false,
   "full_width_submenu": false
