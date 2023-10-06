@@ -1,1 +1,23 @@
 // Add your custom CSS here.
+.header {
+    background-color: #000;
+    * {
+        color: #ccc
+    }
+    &__category {
+        font-weight: bold;
+        &:hover {
+            color: #fff;
+        }
+    }
+    
+}
+.top-bar__nav {
+    display: none !important;
+}
+@media (min-width: 576px) {
+    .header__logo {
+      max-height: 100px;
+    }
+}
+ 

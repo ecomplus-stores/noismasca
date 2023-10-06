@@ -1,14 +1,14 @@
 {
   "marketing_stripe": {
-    "text": "Descontos de até 40%",
+    "text": "",
     "link": "",
     "background": "#560d0e",
     "color": "#ffffff"
   },
   "contacts_stripe": {
     "pages": [],
-    "phone_wpp": true,
-    "socials": true
+    "phone_wpp": false,
+    "socials": false
   },
   "categories_list": {
     "featured": [

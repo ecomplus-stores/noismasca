@@ -1,6 +1,131 @@
 {
   "hosting": {
     "redirects": [
+      {
+        "source": "/sitemap",
+        "destination": "/sitemap.xml",
+        "type": 301
+      },
+      {
+        "source": "/pagina/cotacoes",
+        "destination": "/pages/cotacoes-para-empresas",
+        "type": 301
+      },
+      {
+        "source": "/pages/atacado-disfoil",
+        "destination": "/pages/atacado-empresas",
+        "type": 301
+      },
+      {
+        "source": "/sitemaps/pages",
+        "destination": "/sitemap.xml",
+        "type": 301
+      },
+      {
+        "source": "/sitemaps/searches",
+        "destination": "/sitemap.xml",
+        "type": 301
+      },
+      {
+        "source": "/sitemaps/grids",
+        "destination": "/sitemap.xml",
+        "type": 301
+      },
+            {
+        "source": "/sitemaps/categories",
+        "destination": "/sitemap.xml",
+        "type": 301
+      },
+      {
+        "source": "/sitemaps/brands",
+        "destination": "/sitemap.xml",
+        "type": 301
+      },
+      {
+        "source": "/sitemaps/products",
+        "destination": "/sitemap.xml",
+        "type": 301
+      },
+      {
+        "source": "/entrar",
+        "destination": "/app/#/account/",
+        "type": 301
+      },
+      {
+        "source": "/contato",
+        "destination": "/pages/contato",
+        "type": 301
+      },
+      {
+        "source": "/conta",
+        "destination": "/app/#/account/",
+        "type": 301
+      },
+      {
+        "source": "/cadastrar",
+        "destination": "/",
+        "type": 301
+      },
+      {
+        "source": "/carrinho",
+        "destination": "/app/#/cart",
+        "type": 301
+      },
+      {
+        "source": "/pagina/depoimentos-de-clientes",
+        "destination": "/pages/depoimentos-de-clientes",
+        "type": 301
+      },
+      {
+        "source": "/pagina/sobre",
+        "destination": "/pages/sobre-nos",
+        "type": 301
+      },
+      {
+        "source": "/pagina/fumo-de-mascar-como-mascar-fumo-dez-passos",
+        "destination": "/pages/fumo-de-mascar-como-mascar-fumo-dez-passos",
+        "type": 301
+      },
+      {
+        "source": "/pagina/como-e-o-tabaco-na-cultura-popular",
+        "destination": "/pages/como-e-o-tabaco-na-cultura-popular",
+        "type": 301
+      },
+      {
+        "source": "/pagina/entrega",
+        "destination": "/pages/entrega",
+        "type": 301
+      },
+      {
+        "source": "/pagina/privacidade",
+        "destination": "/pages/politica-de-privacidade",
+        "type": 301
+      },
+      {
+        "source": "/pagina/trocas",
+        "destination": "/pages/como-comprar-no-site",
+        "type": 301
+      },
+      {
+        "source": "/pagina/revenda-ou-atacado",
+        "destination": "/pages/revenda-ou-atacado",
+        "type": 301
+      },
+      {
+        "source": "/pagina/*",
+        "destination": "/pages/",
+        "type": 301
+      },
+      {
+        "source": "/grid*",
+        "destination": "/search",
+        "type": 301
+      },
+      {
+        "regex": "/busca*",
+        "destination": "/search",
+        "type": 301
+      }
     ],
     "public": "dist",
     "ignore": [
