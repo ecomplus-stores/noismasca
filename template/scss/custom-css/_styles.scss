@@ -88,3 +88,21 @@
 .product__discount {
     display: none;
 }
+
+.product-card {
+    border: 1px solid #a1a1a1;
+}
+
+.products-carousel__title {
+    a::after, span::after {
+        color: #089c26 !important;
+        content: " + Ver mais";
+        font-size: .8rem;
+        font-weight: 700;
+        padding: .5rem;
+    }
+    text-align: left;
+    span {
+        font-weight: bold;
+    }
+}
