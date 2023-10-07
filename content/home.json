@@ -75,21 +75,24 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "6418cad14bd2e929c1a75b2a:categories:Fumo de Corda:/fumo-de-corda/"
+      "collection_id": "6418cacb4bd2e929c1a75b12:categories:Fumo Importado :/fumo-de-mascar-importado/",
+      "title": "Fumos em Lata Importados"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "6418cacb4bd2e929c1a75b12:categories:Fumo Importado :/fumo-de-mascar-importado/"
+      "collection_id": "6418caca4bd2e929c1a75b0f:categories:Fumo Nacional:/fumo-nacional/",
+      "title": "Fumos em Lata Nacionais"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "6418caca4bd2e929c1a75b0f:categories:Fumo Nacional:/fumo-nacional/"
+      "collection_id": "6418cad14bd2e929c1a75b2a:categories:Fumo de Corda:/fumo-de-corda/",
+      "title": "Fumo de Corda"
     }
   ]
 }
