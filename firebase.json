@@ -7,13 +7,28 @@
         "type": 301
       },
       {
-        "source": "/pagina/cotacoes",
-        "destination": "/pages/cotacoes-para-empresas",
+        "source": "/pagina/pagamento",
+        "destination": "/pages/pagamento",
         "type": 301
       },
       {
-        "source": "/pages/atacado-disfoil",
-        "destination": "/pages/atacado-empresas",
+        "source": "/pagina/duvidas",
+        "destination": "/pages/duvidas",
+        "type": 301
+      },
+      {
+        "source": "/pagina/o-que-e-fumo-de-mascar",
+        "destination": "/pages/o-que-e-fumo-de-mascar",
+        "type": 301
+      },
+      {
+        "source": "/pagina/minha-encomenda-ainda-nao-chegou-o-que-eu-faco",
+        "destination": "/pages/minha-encomenda-ainda-nao-chegou-o-que-eu-faco",
+        "type": 301
+      },
+      {
+        "source": "/pagina/fumo-de-mascar-historia-do-tabaco-e-fumo-de-mascar",
+        "destination": "/pages/fumo-de-mascar-historia-do-tabaco-e-fumo-de-mascar",
         "type": 301
       },
       {
@@ -112,12 +127,12 @@
         "type": 301
       },
       {
-        "source": "/pagina/*",
-        "destination": "/pages/",
+        "source": "/pagina/frete-gratis-e-rastreamento",
+        "destination": "/pages/frete-gratis-e-rastreamento",
         "type": 301
       },
       {
-        "source": "/grid*",
+        "regex": "/grid*",
         "destination": "/search",
         "type": 301
       },
