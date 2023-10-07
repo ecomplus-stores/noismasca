@@ -132,7 +132,22 @@
         "type": 301
       },
       {
-        "regex": "/grid/*",
+        "source": "/grid/lancamentos",
+        "destination": "/search",
+        "type": 301
+      },
+      {
+        "source": "/grid/mais-vendidos",
+        "destination": "/search",
+        "type": 301
+      },
+      {
+        "source": "/grid/tubos-de-5-latas",
+        "destination": "/search",
+        "type": 301
+      },
+      {
+        "source": "/grid/acessorios",
         "destination": "/search",
         "type": 301
       },
