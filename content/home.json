@@ -75,15 +75,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "6520c8352cd6b65959700194:collections:Fumos em Pote:/grid/fumos-em-pote"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "6520cca32cd6b659597004be:collections:Fumos em Lata Importados:/grid/fumos-importados",
-      "title": "Fumos em Lata Importados"
+      "collection_id": "6520cca32cd6b659597004be:collections:Fumos em Lata Importados:/grid/fumos-importados"
     },
     {
       "type": "collection-shelf",
@@ -91,7 +83,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "6520cc7f2cd6b65959700498:collections:Fumos em Lata Nacionais:/grid/fumos-nacionais",
-      "title": "Fumos em Lata Nacionais"
+      "title": "Fumos em Lata Importados"
     },
     {
       "type": "collection-shelf",
@@ -99,6 +91,14 @@
       "limit": 12,
       "page": 1,
       "collection_id": "6520ccf62cd6b659597004fa:collections:Fumo de Corda:/grid/fumo-de-corda",
+      "title": "Fumos em Lata Nacionais"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6418cac84bd2e929c1a75b0c:categories:Outros Produtos:/categoria-exemplo/",
       "title": "Fumo de Corda"
     }
   ]
