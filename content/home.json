@@ -61,14 +61,14 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "6520ccda2cd6b659597004ec:collections:Fumos em Folha:/grid/fumos-em-folha"
+      "collection_id": "6520c8352cd6b65959700194:collections:Fumos em Pote:/grid/fumos-em-pote"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "6418cac84bd2e929c1a75b0c:categories:Outros Produtos:/categoria-exemplo/"
+      "collection_id": "6520ccda2cd6b659597004ec:collections:Fumos em Folha:/grid/fumos-em-folha"
     },
     {
       "type": "collection-shelf",
