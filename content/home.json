@@ -71,7 +71,8 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "6520c8352cd6b65959700194:collections:Fumos em Pote:/grid/fumos-em-pote"
+      "collection_id": "6520c8352cd6b65959700194:collections:Fumos em Pote:/grid/fumos-em-pote",
+      "sort": "sales"
     },
     {
       "type": "collection-shelf",
