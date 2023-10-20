@@ -87,7 +87,8 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "6520cca32cd6b659597004be:collections:Fumos em Lata Importados:/grid/fumos-importados"
+      "collection_id": "6520cca32cd6b659597004be:collections:Fumos em Lata Importados:/grid/fumos-importados",
+      "sort": "sales"
     },
     {
       "type": "collection-shelf",
