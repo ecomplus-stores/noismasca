@@ -13,7 +13,7 @@
   "categories_list": {
     "featured": [
       "/grid/ofertas?Ofertas",
-      "/cuspi-bruto?Cuspi Bruto",
+      "/cuspidor-fumo-cuspi-bruto?Cuspi Bruto",
       "/fumo-de-mascar-importado/?Fumo Importado ",
       "/fumo-nacional/?Fumo Nacional",
       "/fumo-por-tipo/?Fumo por Tipo",
@@ -23,7 +23,7 @@
     "full_width": true
   },
   "desktop_megamenu": true,
-  "search_input": true,
   "alphabetical_order_submenu": false,
+  "search_input": true,
   "full_width_submenu": false
 }
