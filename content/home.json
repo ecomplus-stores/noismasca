@@ -58,12 +58,12 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "limit": 24,
       "page": 1,
       "title": "Acessórios",
       "collection_id": "6418cac84bd2e929c1a75b0c:categories:Outros Produtos:/categoria-exemplo/",
-      "sort": "highest_price",
+      "sort": null,
       "link": "https://www.noismasca.com/categoria-exemplo/"
     },
     {
