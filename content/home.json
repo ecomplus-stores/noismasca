@@ -131,6 +131,14 @@
       "page": 1,
       "collection_id": "6418cae04bd2e929c1a75b63:categories:Rapé:/rape/",
       "sort": "sales"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 7,
+      "page": 1,
+      "collection_id": "6639258832d4fe4710f230f5:collections:Fumo de Pote Nacional:/fumo-de-mascar-pote-nacional",
+      "headless": true
     }
   ]
 }
