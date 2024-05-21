@@ -133,6 +133,13 @@
       "sort": null,
       "title": "Adesivos",
       "link": "https://www.noismasca.com/adesivos/"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "offers"
     }
   ]
 }
