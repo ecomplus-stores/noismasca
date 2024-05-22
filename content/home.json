@@ -61,8 +61,10 @@
       "shuffle": true,
       "limit": 24,
       "page": 1,
+      "title": "Acessórios",
+      "collection_id": "6418cadc4bd2e929c1a75b55:categories:Acessorios:/acessorios/",
       "sort": "offers",
-      "title": "Promoções"
+      "link": "https://www.noismasca.com/acessorio-made-in-cuspi"
     },
     {
       "type": "collection-shelf",
@@ -121,16 +123,6 @@
       "collection_id": "6418cae04bd2e929c1a75b63:categories:Rapé:/rape/",
       "sort": "sales",
       "headless": false
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 24,
-      "page": 1,
-      "title": "Acessórios",
-      "collection_id": "6418cadc4bd2e929c1a75b55:categories:Acessorios:/acessorios/",
-      "sort": null,
-      "link": "https://www.noismasca.com/acessorio-made-in-cuspi"
     },
     {
       "type": "collection-shelf",
