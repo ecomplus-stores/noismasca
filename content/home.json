@@ -78,7 +78,7 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": true,
+      "shuffle": false,
       "limit": 6,
       "page": 1,
       "collection_id": "663922d332d4fe4710f22c3c:categories:Fumo em Pote Nacional:/fumo-em-pote-nacional",
