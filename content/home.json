@@ -120,20 +120,20 @@
       "shuffle": true,
       "limit": 24,
       "page": 1,
-      "collection_id": "6418cade4bd2e929c1a75b5b:categories:Adesivos:/adesivos/",
+      "title": "Acessórios",
+      "collection_id": "6418cadc4bd2e929c1a75b55:categories:Acessorios:/acessorios/",
       "sort": null,
-      "title": "Adesivos",
-      "link": "https://www.noismasca.com/adesivos/"
+      "link": "https://www.noismasca.com/acessorio-made-in-cuspi"
     },
     {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 24,
       "page": 1,
-      "title": "Acessórios",
-      "collection_id": "6418cadc4bd2e929c1a75b55:categories:Acessorios:/acessorios/",
+      "collection_id": "6418cade4bd2e929c1a75b5b:categories:Adesivos:/adesivos/",
       "sort": null,
-      "link": "https://www.noismasca.com/acessorio-made-in-cuspi"
+      "title": "Adesivos",
+      "link": "https://www.noismasca.com/adesivos/"
     }
   ]
 }
