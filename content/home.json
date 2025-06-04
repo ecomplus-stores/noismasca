@@ -3,20 +3,6 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/whatsapp-image-2025-06-03-at-2.56.36-pm.jpeg",
-          "alt": "",
-          "mobile_img": ""
-        }
-      ]
-    },
-    {
       "type": "responsive-banner",
       "img": "/img/uploads/banner_frete_gratis_pix01.jpg"
     },
