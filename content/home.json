@@ -21,6 +21,13 @@
     },
     {
       "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "699b866ec650040a8ca2bac8:categories:Novidades:/novidades"
+    },
+    {
+      "type": "collection-shelf",
       "shuffle": true,
       "limit": 22,
       "page": 1,
@@ -107,13 +114,6 @@
       "sort": null,
       "title": "Adesivos",
       "link": "https://www.noismasca.com/adesivos/"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "699b866ec650040a8ca2bac8:categories:Novidades:/novidades"
     }
   ]
 }
